@@ -7,6 +7,7 @@
 
 ## Biology
 * Wang, Xin, et al. "Clonal expansion dictates the efficacy of mitochondrial lineage tracing in single cells." bioRxiv (2024): 2024-05. (Xin Wang_Zheng Hu_mitochondrial clonal expansion)
+
 *Define clone informative variants (CIV) and Lineage informative (LI) score, and provide a framework to evaluate whether mitochondrial variants are suitable for lineage tracing or not*
 
 ## Algorithm
