@@ -17,7 +17,7 @@
 
 *A review of existing spatial multi-omics technologies and their application to understand tumors. It also contains the introduction of bioinformatics tools to analyze them and potential applications in clinical (decide treatment). The technologies part is its strength.*
 
-* Zhou, R., Tang, X. & Wang, Y. Emerging strategies to investigate the biology of early cancer. Nat Rev Cancer (2024). https://doi.org/10.1038/s41568-024-00754-y (Ran Zhou_Yuan Wang_investigate early cancer review)
+* Zhou, R., Tang, X. & Wang, Y. Emerging strategies to investigate the biology of early cancer. Nat Rev Cancer (2024). https://doi.org/10.1038/s41568-024-00754-y (Ran Zhou_Yuan Wang_2024_investigate early cancer review)
 
 *Focusing on mouse models to understand early tumor. It also contains some bioinformatics parts.*
 
