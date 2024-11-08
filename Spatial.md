@@ -21,6 +21,11 @@
 
 *Focusing on mouse models to understand early tumor. It also contains some bioinformatics parts.*
 
+## Dataset
+* Janesick, A., Shelansky, R., Gottscho, A.D. et al. High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis. Nat Commun 14, 8353 (2023). https://doi.org/10.1038/s41467-023-43458-x (Amanda Janesick_Sarah E. B. Taylor_2023_scRNA Visium Xenium)
+
+*A dataset contains scRNA, Visium, and Xenium data from serial FFRE breast cancer slides. Data is coming from 10x. This paper is mainly focused on data description and biology things.*
+
 ## Other
 * Marconato, Luca, et al. "SpatialData: an open and universal data framework for spatial omics." Nature Methods (2024): 1-5. (Luca Marconato_Oliver Stegle_2024_SpatialData)
 
