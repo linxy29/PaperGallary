@@ -31,4 +31,8 @@
 
 *Looks like a very useful tools to combine and analysis multiple spatial data, especially when they were getting from different technologies. It is optimized for efficient usage of memory, mapping different data and so on.*
 
+* Xu, H., Wang, S., Fang, M. et al. SPACEL: deep learning-based characterization of spatial transcriptome architectures. Nat Commun 14, 7603 (2023). https://doi.org/10.1038/s41467-023-43220-3 (SPACEL_Hao Xu_Kun Qu_2023)
+
+*A tool that can do deconvolution, align different spatial slices. Try to use its data in CIVET.*
+
 
