@@ -7,3 +7,7 @@
 * Sumanaweera, D., Suo, C., Cujba, AM. et al. Gene-level alignment of single-cell trajectories. Nat Methods (2024). https://doi.org/10.1038/s41592-024-02378-4 (Dinithi Sumanaweera_Sarah A. Teichmann_Genes2Genes)
 
 *New tools that can compare two trajectories, find out the mismatch part, and find mismatch genes. The contribution of this paper is allowing mismatch????*
+
+* Rohbeck, Martin, et al. "Bicycle: Intervention-Based Causal Discovery with Cycles." Causal Learning and Reasoning. PMLR, 2024. (Bicycle_Martin Rohbeck_Kai Ueltzhoffer)
+
+*From Oliver's group. Using a steady-state model to describe GRN (has interpretability), then model perturbation effect* 
