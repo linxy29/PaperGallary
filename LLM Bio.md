@@ -4,4 +4,4 @@
 
 * Preprint, https://arcinstitute.org/manuscripts/State (State_Abhinav K. Adduri_Yusuf H. Roohani_202506)
 
-*A large cell model that 1) provides the embeddings of large cell atals; 2) enables the prediction of perturbation effects. The perturbation data might be interesting.
+*A large cell model that 1) provides the embeddings of large cell atals; 2) enables the prediction of perturbation effects. The perturbation data might be interesting.*
